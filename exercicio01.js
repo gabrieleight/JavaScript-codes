@@ -9,28 +9,28 @@ const operacaoMatematica = primeiroNumero + segundoNumero;
 
 console.log(operacaoMatematica);
 
-const novaOperacaoMatematica = primeiroNumero * segundoNumero
+const novaOperacaoMatematica = primeiroNumero * segundoNumero;
 
 console.log(novaOperacaoMatematica);
 
 // Tipo string
 
-const texto1 = "'Olá, mundo!'"
-const texto2 = "'Hello, World!'"
+const texto1 = "'Olá, mundo!'";
+const texto2 = "'Hello, World!'";
 
-const novoTexto = texto1 + " é o mesmo que " + texto2
+const novoTexto = texto1 + " é o mesmo que " + texto2;
 
 console.log(novoTexto);
 
 // Tipo boolean
 
-const terceiroNumero = 5
-const quartoNumero = 5
-let cadastroAtivado = true
+const terceiroNumero = 5;
+const quartoNumero = 5;
+let cadastroAtivado = true;
 
 console.log(terceiroNumero === quartoNumero);
 
-const texto3 = "Alura"
+const texto3 = "Alura";
 const texto4 = "alura"
 
-console.log(texto3 === texto4);  
+console.log(texto3 === texto4);
