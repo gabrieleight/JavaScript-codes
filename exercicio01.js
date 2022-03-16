@@ -15,8 +15,8 @@ console.log(novaOperacaoMatematica);
 
 // Tipo string
 
-const texto1 = "'Olá, mundo!'";
-const texto2 = "'Hello, World!'";
+const texto1 = "'Olá, mundo feliz!'";
+const texto2 = "'Hello, Happy World!'";
 
 const novoTexto = texto1 + " é o mesmo que " + texto2;
 
